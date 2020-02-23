@@ -2,9 +2,9 @@
 
 Open Twin Cities fosters an inclusive community of civic collaboration.  We have three areas of focus:
 
-- Open Data
-- Open Software
-- Engaged Citizenship
+- [Open Data](open-data.md)
+- [Open Software](open-software.md)
+- [Engaged Citizenship](engaged-citizenship.md)
 
 Open Twin Cities is a part of the [Code for America Brigade network](https://brigade.codeforamerica.org/).
 
