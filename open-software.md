@@ -44,3 +44,4 @@ And remember: an app doesn't have to be complex to be useful! Start as small as 
 - [Adopt-A-Tree](https://github.com/OpenTwinCities/adopt-a-tree)
 - [MN Pay](https://github.com/OpenTwinCities/mnpay)
 - [Can I Vote If](https://github.com/Can-I-Vote-If/can-i-vote-if)
+- [Minutes Maid](https://github.com/eebbesen/minutes_maid)
