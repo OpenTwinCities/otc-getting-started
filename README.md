@@ -10,5 +10,6 @@ Open Twin Cities is a part of the [Code for America Brigade network](https://bri
 
 ## Stay connected!
 
+- Visit our [website](http://www.opentwincities.org/)
 - Join our [Slack](https://otc-slackin.herokuapp.com/)
 - Join our [newsletter](https://opentwincities.us7.list-manage.com/subscribe/post?u=3bea578290dec0eddf8364cad&id=4792806555)
